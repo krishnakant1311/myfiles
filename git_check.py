@@ -1,6 +1,8 @@
 print("hii iam first line ")
 print("hii iam second line ")
 print("hii iam third line ")
-print("hii iam first line ")
-print("hii iam seventh line ")
+print("hii iam fourth  line ")
+print("hii iam fifth  line ")
+
+
 
